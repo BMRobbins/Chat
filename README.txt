@@ -1,0 +1,13 @@
+Chat peer to peer program:
+	- The program is a server and client chat program with a graphical user interface
+	- created using python and tkinter
+	- to use user must know the ip address that the server will be run on
+	- the host is set to 127.0.0.1, this should be replaced with server IP address
+	- the host also needs to be changed in the clientGUI file as well
+	- first the server must be run in a terminal
+	- then the first user needs to run the clientGUI
+	- the user will be prompted for a name, this will be displayed with user messages in message box
+	- then the second user needs to run the clientGUI
+	- the user will be prompted for a name, this will be displayed with user messages in message box
+	- after the server shows that both are connected the two users can communicate through their own personal GUI
+	- to quit simply exit out of server and clientGUIs
